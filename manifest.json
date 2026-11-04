@@ -1,0 +1,246 @@
+{
+  "generated" : "2026-11-04T02:41:14Z",
+  "packs" : [
+    {
+      "attribution" : "Contains modified Copernicus DEM GLO-90 data © DLR e.V. 2010-2014 and © Airbus Defence and Space GmbH 2014-2018, provided under COPERNICUS by the European Union and ESA; all rights reserved. | © OpenStreetMap contributors",
+      "bbox" : {
+        "east" : 98,
+        "north" : 30,
+        "south" : 26,
+        "west" : 91
+      },
+      "buildDate" : "2026-11-04T01:20:24Z",
+      "bytes" : 39261648,
+      "demStepArcsec" : 3,
+      "formatVersion" : 1,
+      "id" : "arunachal",
+      "licence" : "Terrain: Copernicus data licence. Peak names: ODbL 1.0.",
+      "name" : "Arunachal Pradesh and Eastern Himalaya",
+      "peakCount" : 785,
+      "sha256" : "742972397839ab30072d3f9801ca8fa17a206cf7d64c3f20c70becbff8681480",
+      "url" : "https://github.com/RajatB15/AstroPhoto-packs/releases/download/packs-v1/arunachal.apk",
+      "version" : 1
+    },
+    {
+      "attribution" : "Contains modified Copernicus DEM GLO-90 data © DLR e.V. 2010-2014 and © Airbus Defence and Space GmbH 2014-2018, provided under COPERNICUS by the European Union and ESA; all rights reserved. | © OpenStreetMap contributors",
+      "bbox" : {
+        "east" : 79,
+        "north" : 34,
+        "south" : 30,
+        "west" : 75
+      },
+      "buildDate" : "2026-11-04T01:11:49Z",
+      "bytes" : 20403648,
+      "demStepArcsec" : 3,
+      "formatVersion" : 1,
+      "id" : "himachal",
+      "licence" : "Terrain: Copernicus data licence. Peak names: ODbL 1.0.",
+      "name" : "Himachal Pradesh and Spiti",
+      "peakCount" : 1118,
+      "sha256" : "2fa1dd1199049b54437bc8b2df42d00097ffdf0f5e1bd4faa7be59193077c8ea",
+      "url" : "https://github.com/RajatB15/AstroPhoto-packs/releases/download/packs-v1/himachal.apk",
+      "version" : 1
+    },
+    {
+      "attribution" : "Contains modified Copernicus DEM GLO-90 data © DLR e.V. 2010-2014 and © Airbus Defence and Space GmbH 2014-2018, provided under COPERNICUS by the European Union and ESA; all rights reserved. | © OpenStreetMap contributors",
+      "bbox" : {
+        "east" : 98,
+        "north" : 37,
+        "south" : 6,
+        "west" : 68
+      },
+      "buildDate" : "2026-11-04T02:38:20Z",
+      "bytes" : 49005704,
+      "demStepArcsec" : 12,
+      "formatVersion" : 1,
+      "id" : "india-rest",
+      "licence" : "Terrain: Copernicus data licence. Peak names: ODbL 1.0.",
+      "name" : "India (coarse, 12 arcsec) for everywhere else",
+      "peakCount" : 8608,
+      "sha256" : "fd2f45f35f2c70f1b951dddbadc6a02ca8ef39d2e543787e65a95f8931bc9256",
+      "url" : "https://github.com/RajatB15/AstroPhoto-packs/releases/download/packs-v1/india-rest.apk",
+      "version" : 1
+    },
+    {
+      "attribution" : "Contains modified Copernicus DEM GLO-90 data © DLR e.V. 2010-2014 and © Airbus Defence and Space GmbH 2014-2018, provided under COPERNICUS by the European Union and ESA; all rights reserved. | © OpenStreetMap contributors",
+      "bbox" : {
+        "east" : 75,
+        "north" : 37,
+        "south" : 32,
+        "west" : 72
+      },
+      "buildDate" : "2026-11-04T01:17:45Z",
+      "bytes" : 19469448,
+      "demStepArcsec" : 3,
+      "formatVersion" : 1,
+      "id" : "kashmir",
+      "licence" : "Terrain: Copernicus data licence. Peak names: ODbL 1.0.",
+      "name" : "Kashmir and Pir Panjal",
+      "peakCount" : 382,
+      "sha256" : "9f1839f2136aa7674835419089cf5a4f6db4fd10b3b9bd0da0c7aee1a1e52a92",
+      "url" : "https://github.com/RajatB15/AstroPhoto-packs/releases/download/packs-v1/kashmir.apk",
+      "version" : 1
+    },
+    {
+      "attribution" : "Contains modified Copernicus DEM GLO-90 data © DLR e.V. 2010-2014 and © Airbus Defence and Space GmbH 2014-2018, provided under COPERNICUS by the European Union and ESA; all rights reserved. | © OpenStreetMap contributors",
+      "bbox" : {
+        "east" : 80,
+        "north" : 37,
+        "south" : 32,
+        "west" : 75
+      },
+      "buildDate" : "2026-11-04T01:15:52Z",
+      "bytes" : 35630840,
+      "demStepArcsec" : 3,
+      "formatVersion" : 1,
+      "id" : "ladakh-zanskar",
+      "licence" : "Terrain: Copernicus data licence. Peak names: ODbL 1.0.",
+      "name" : "Ladakh, Zanskar and Karakoram East",
+      "peakCount" : 1595,
+      "sha256" : "135014fb4431b810ad51b0dfb73e5c00ed8e8fc8ed5236edd17c9751c01e224c",
+      "url" : "https://github.com/RajatB15/AstroPhoto-packs/releases/download/packs-v1/ladakh-zanskar.apk",
+      "version" : 1
+    },
+    {
+      "attribution" : "Contains modified Copernicus DEM GLO-90 data © DLR e.V. 2010-2014 and © Airbus Defence and Space GmbH 2014-2018, provided under COPERNICUS by the European Union and ESA; all rights reserved. | © OpenStreetMap contributors",
+      "bbox" : {
+        "east" : 88,
+        "north" : 31,
+        "south" : 26,
+        "west" : 84
+      },
+      "buildDate" : "2026-11-04T01:08:00Z",
+      "bytes" : 24483280,
+      "demStepArcsec" : 3,
+      "formatVersion" : 1,
+      "id" : "nepal-east",
+      "licence" : "Terrain: Copernicus data licence. Peak names: ODbL 1.0.",
+      "name" : "Nepal East (Manaslu, Langtang, Everest, Kanchenjunga)",
+      "peakCount" : 770,
+      "sha256" : "de66fd40cb9508f81603f32068d039e9d74da9d8d0a9cfcbe8287fa10bdbd6da",
+      "url" : "https://github.com/RajatB15/AstroPhoto-packs/releases/download/packs-v1/nepal-east.apk",
+      "version" : 1
+    },
+    {
+      "attribution" : "Contains modified Copernicus DEM GLO-90 data © DLR e.V. 2010-2014 and © Airbus Defence and Space GmbH 2014-2018, provided under COPERNICUS by the European Union and ESA; all rights reserved. | © OpenStreetMap contributors",
+      "bbox" : {
+        "east" : 84,
+        "north" : 31,
+        "south" : 26,
+        "west" : 80
+      },
+      "buildDate" : "2026-11-04T01:01:26Z",
+      "bytes" : 22740584,
+      "demStepArcsec" : 3,
+      "formatVersion" : 1,
+      "id" : "nepal-west",
+      "licence" : "Terrain: Copernicus data licence. Peak names: ODbL 1.0.",
+      "name" : "Nepal West (Dhaulagiri, Annapurna, Karnali)",
+      "peakCount" : 384,
+      "sha256" : "826631a4e0098bba597c6900de9f1554a00090365314da77a4d607f02ecac6ae",
+      "url" : "https://github.com/RajatB15/AstroPhoto-packs/releases/download/packs-v1/nepal-west.apk",
+      "version" : 1
+    },
+    {
+      "attribution" : "Contains modified Copernicus DEM GLO-90 data © DLR e.V. 2010-2014 and © Airbus Defence and Space GmbH 2014-2018, provided under COPERNICUS by the European Union and ESA; all rights reserved. | © OpenStreetMap contributors",
+      "bbox" : {
+        "east" : 95,
+        "north" : 26,
+        "south" : 21,
+        "west" : 89
+      },
+      "buildDate" : "2026-11-04T01:24:37Z",
+      "bytes" : 31660912,
+      "demStepArcsec" : 3,
+      "formatVersion" : 1,
+      "id" : "northeast-india",
+      "licence" : "Terrain: Copernicus data licence. Peak names: ODbL 1.0.",
+      "name" : "Assam, Meghalaya, Nagaland, Manipur, Mizoram, Tripura",
+      "peakCount" : 169,
+      "sha256" : "b6202c4a436c4167d3e0e11c019a24345948a17c95379939ccb6ffc63a4d17b9",
+      "url" : "https://github.com/RajatB15/AstroPhoto-packs/releases/download/packs-v1/northeast-india.apk",
+      "version" : 1
+    },
+    {
+      "attribution" : "Contains modified Copernicus DEM GLO-90 data © DLR e.V. 2010-2014 and © Airbus Defence and Space GmbH 2014-2018, provided under COPERNICUS by the European Union and ESA; all rights reserved. | © OpenStreetMap contributors",
+      "bbox" : {
+        "east" : 90,
+        "north" : 29,
+        "south" : 26,
+        "west" : 88
+      },
+      "buildDate" : "2026-11-04T01:09:13Z",
+      "bytes" : 7561224,
+      "demStepArcsec" : 3,
+      "formatVersion" : 1,
+      "id" : "sikkim-darjeeling",
+      "licence" : "Terrain: Copernicus data licence. Peak names: ODbL 1.0.",
+      "name" : "Sikkim, Darjeeling and Bhutan West",
+      "peakCount" : 459,
+      "sha256" : "d06bafaa48a765ad38a4a9c46c003a4b002330a3e91989cc9e791a167e107369",
+      "url" : "https://github.com/RajatB15/AstroPhoto-packs/releases/download/packs-v1/sikkim-darjeeling.apk",
+      "version" : 1
+    },
+    {
+      "attribution" : "Contains modified Copernicus DEM GLO-90 data © DLR e.V. 2010-2014 and © Airbus Defence and Space GmbH 2014-2018, provided under COPERNICUS by the European Union and ESA; all rights reserved. | © OpenStreetMap contributors",
+      "bbox" : {
+        "east" : 80,
+        "north" : 32,
+        "south" : 28,
+        "west" : 77
+      },
+      "buildDate" : "2026-11-04T01:10:26Z",
+      "bytes" : 13913624,
+      "demStepArcsec" : 3,
+      "formatVersion" : 1,
+      "id" : "uttarakhand",
+      "licence" : "Terrain: Copernicus data licence. Peak names: ODbL 1.0.",
+      "name" : "Uttarakhand and Garhwal",
+      "peakCount" : 493,
+      "sha256" : "9d62b95124ce236fa32d29f2b3bc2e6719a536bd7f7191b065b320529670fbfc",
+      "url" : "https://github.com/RajatB15/AstroPhoto-packs/releases/download/packs-v1/uttarakhand.apk",
+      "version" : 1
+    },
+    {
+      "attribution" : "Contains modified Copernicus DEM GLO-90 data © DLR e.V. 2010-2014 and © Airbus Defence and Space GmbH 2014-2018, provided under COPERNICUS by the European Union and ESA; all rights reserved. | © OpenStreetMap contributors",
+      "bbox" : {
+        "east" : 78,
+        "north" : 21,
+        "south" : 14,
+        "west" : 72
+      },
+      "buildDate" : "2026-11-04T01:28:56Z",
+      "bytes" : 31016480,
+      "demStepArcsec" : 3,
+      "formatVersion" : 1,
+      "id" : "western-ghats-north",
+      "licence" : "Terrain: Copernicus data licence. Peak names: ODbL 1.0.",
+      "name" : "Western Ghats North (Maharashtra, Goa, Karnataka coast)",
+      "peakCount" : 316,
+      "sha256" : "be6a163a1e197d56877c53068fbf4e6a586fb9e74ba7ccbe403d84aefa17c80c",
+      "url" : "https://github.com/RajatB15/AstroPhoto-packs/releases/download/packs-v1/western-ghats-north.apk",
+      "version" : 1
+    },
+    {
+      "attribution" : "Contains modified Copernicus DEM GLO-90 data © DLR e.V. 2010-2014 and © Airbus Defence and Space GmbH 2014-2018, provided under COPERNICUS by the European Union and ESA; all rights reserved. | © OpenStreetMap contributors",
+      "bbox" : {
+        "east" : 80,
+        "north" : 14,
+        "south" : 7,
+        "west" : 75
+      },
+      "buildDate" : "2026-11-04T01:33:58Z",
+      "bytes" : 23175672,
+      "demStepArcsec" : 3,
+      "formatVersion" : 1,
+      "id" : "western-ghats-south",
+      "licence" : "Terrain: Copernicus data licence. Peak names: ODbL 1.0.",
+      "name" : "Western Ghats South (Kerala, Tamil Nadu hills)",
+      "peakCount" : 499,
+      "sha256" : "cc5795bd33a1ddf61dd31c9199e77ee844b3a282c127a5a0edf8f73161282a3d",
+      "url" : "https://github.com/RajatB15/AstroPhoto-packs/releases/download/packs-v1/western-ghats-south.apk",
+      "version" : 1
+    }
+  ],
+  "schemaVersion" : 1
+}
